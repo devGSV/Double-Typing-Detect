@@ -1,0 +1,3 @@
+- - - | Backspace Double Typing Detection
+  - - | Run Double_Type.py OR dist/Double_Type.exe
+    - | https://t.me/devGSV
